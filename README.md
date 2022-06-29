@@ -1,4 +1,7 @@
-### Hi there, I'm Srushti Haryan 👋
+
+<!-- ### Hi there, I'm Srushti Haryan 👋 -->
+
+<img src="https://github.com/SrushtiHaryan/SrushtiHaryan/blob/447cb1e0b265f26800f0230f2ac0c090a3cbb55b/Srushti%20Haryan.gif" height="350"/>
 
 <!--
 **SrushtiHaryan/SrushtiHaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
