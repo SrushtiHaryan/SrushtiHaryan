@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal project 🤓
 - 🌱 I’m currently learning **JavaScript** 
-- ☕ **JAVA** is my mother tongue for programming 
+- ☕ **JAVA** is my mother tongue for programming language
 - 💬 Always there to listen to the bugs in your program called _'LIFE'_
 - 📫 How to reach me: 
   - Twitter: [@HaryanSrushti](https://twitter.com/HaryanSrushti)
