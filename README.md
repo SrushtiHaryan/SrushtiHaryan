@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a personal project 🤓
-- 🌱 I’m currently learning **JavaScript** 
-- ☕ **JAVA** is my mother tongue for programming language
-- 💬 Always there to listen to the bugs in your program called _'LIFE'_
+- 🌱 I’m currently learning **React** 
+- ☕ **JAVA** is my mother tongue among all other programming languages ;)
+- 💬 My favorite part of programming is when I finally solve a problem after hours of debugging.
 - 📫 How to reach me: 
   - Twitter: [@HaryanSrushti](https://twitter.com/HaryanSrushti)
-  - Instagram: _Temporarily Deactivated_
-  - LinkedIn: [Srushti Haryan](https://www.linkedin.com/in/srushti-haryan-a86a76217/)
+   - LinkedIn: [Srushti Haryan](https://www.linkedin.com/in/srushti-haryan-a86a76217/)
 - ⚡ Fun fact: An avid fan of Jurassic Park🦖 and MARVEL🕸 franchise
 - 😄 Pronouns: She/Her
 
